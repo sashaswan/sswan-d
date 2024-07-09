@@ -1,0 +1,24 @@
+{
+  "name": "sswan-d",
+  "version": "1.0.0",
+  "description": "Basic dependent app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sashaswan/sswan-d.git"
+  },
+  "dependencies": {
+    "tea-sswan-e": "1.0.0",
+    "tea-sswan-d": "1.0.0",
+    "sswan": "1.0.2"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sashaswan/sswan-d/issues"
+  },
+  "homepage": "https://github.com/sashaswan/sswan-d#readme"
+}
